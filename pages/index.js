@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to<a href="https://www.vybezone.com">Vybezone.com!</a>
+          Welcome to <a href="https://www.vybezone.com">Vybezone.com!</a>
         </h1>
 
         <p className="description">
