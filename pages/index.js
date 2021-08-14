@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to<a href="https://nextjs.org">Vybezone.com!</a>
+          Welcome to<a href="https://www.vybezone.com">Vybezone.com!</a>
         </h1>
 
         <p className="description">
@@ -18,18 +18,18 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
+          <a href="https://www.wavefunction.dev" className="card">
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Find in-depth information about How to burn down babylon</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className="card">
+          <a href="/party" className="card">
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
+            href="/dothething"
             className="card"
           >
             <h3>Examples &rarr;</h3>
