@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://www.vybezone.com">Vybezone.com!</a>
+          Welcome to<a href="https://www.vybezone.com">Vybezone.com!</a>
         </h1>
 
         <p className="description">
@@ -25,7 +25,7 @@ export default function Home() {
 
           <a href="/party" className="card">
             <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Learn how to rearrange the codes for the matrix with your mind!</p>
           </a>
 
           <a
@@ -33,7 +33,7 @@ export default function Home() {
             className="card"
           >
             <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <p>Discover and deploy boilerplate tacos and pancakes with a swap function!</p>
           </a>
 
           <a
@@ -42,7 +42,7 @@ export default function Home() {
           >
             <h3>Deploy &rarr;</h3>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Instantly eat cookies at a party with loving vibrations.
             </p>
           </a>
         </div>
