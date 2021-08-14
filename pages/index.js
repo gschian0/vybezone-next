@@ -4,17 +4,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Lets Do This!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to<a href="https://nextjs.org">Vybezone.com!</a>
         </h1>
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Get started by editing <code>doing a dance</code>
         </p>
 
         <div className="grid">
